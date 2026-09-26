@@ -18,7 +18,7 @@ A comprehensive engineering portfolio featuring mechanical CAD models, complex s
 
 ## Featured Flagship Projects
 
-### 1. Organic Shell Enclosure ("Fish Assembly") (SolidWorks)
+### 1. Organic Shell Enclosure (SolidWorks)
 An advanced freeform surfacing project demonstrating complex curved outer shell geometry, swept guide curves, internal snap-mating lip slots, precision alignment tabs, custom textured knurling across the upper panel, and multi-part assembly tolerances.
 
 | Isometric View | Front View | Right Side View | Bottom View | Rear View | Top View |
