@@ -6,7 +6,7 @@
 
 ## Technical CAD Portfolio
 
-### 1. 4-Cylinder Crankshaft & Piston Assembly
+### 4-Cylinder Crankshaft & Piston Assembly
 **Course:** ME-430 Introduction to CAD (NJIT) | **Tool:** SOLIDWORKS
 
 * **Kinematic Assembly:** Modeled a multi-body engine bottom-end assembly including pistons, connecting rods, wrist pins, crankshaft journals, and cylinder bores.
